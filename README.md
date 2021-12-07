@@ -1,7 +1,13 @@
-# 내가 만든 행정구역 경계 파일
+# 한반도 과거/북한 행정구역 경계 파일
 
 - SHP 파일을 찾지 못해서, 한번 만들어봄
-- 대충 [조선시대 수륙교통로](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)에서 pdf 파일 다운 $\to$ SHP 변환 $\to$ 엑셀을 이용해 다른 출처(인구 등)의 목록과 교차검증 $\to$ QGIS에서 일일히 수정하여 만듦
+- 대충
+    1. [조선시대 수륙교통로](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)에서 pdf 파일 다운
+    2. SHP 변환
+    3. 엑셀을 이용해 다른 출처(인구 등)의 목록과 교차검증
+    4. QGIS에서 일일히 수정
+    
+    하여 만듦
 - 북한의 행정구역은 오픈스트리트맵을 잘 다운받았음
 
 
@@ -111,3 +117,4 @@
 - 파일이 사실관계와 많이 다를 수 있으며, 이에 따른 책임은 본인에게 있음
 - 본인이 임의로 업데이트 할 수 있음
 - **사실관계가 다른 경우**, 본 깃헙의 [이슈](https://github.com/esctabcapslock/boundary_before/issues)나 [pull requests](https://github.com/esctabcapslock/boundary_before/pulls)기능 등을 이용해 많은 사람들이 혜택을 볼 수 있으면 좋겠음
+- 위와 같은 이유로, 사용시 출처를 남기길 권장함
