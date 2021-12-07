@@ -6,9 +6,9 @@
     2. SHP 변환
     3. 엑셀을 이용해 다른 출처(인구 등)의 목록과 교차검증
     4. QGIS에서 일일히 수정
-    
+
     하여 만듦
-- 북한의 행정구역은 오픈스트리트맵을 잘 다운받았음
+- 북한의 행정구역은 오픈스트리트맵을 활용
 
 
 ## 1432_1454_SGG
@@ -30,10 +30,8 @@
 
 - [조선왕조실록 세종실록지리지](http://sillok.history.go.kr/id/kda_400)
 - [정요근.(2014).\[한국사\] GIS 기법의 활용을 통한 조선후기 越境地의 복원.역사학보,224(),109-162.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06071914)
-- [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005
-)
-- [조선시대 전자문화지도 시스템, 고려대 2007](http://www.atlaskorea.org/historymap.web
-)
+- [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)
+- [조선시대 전자문화지도 시스템, 고려대 2007](http://www.atlaskorea.org/historymap.web)
 - [경기도 600년 기념 1414~2014 : 육백년 경기도, 37p](https://memory.library.kr/items/show/28541)
 - [대동여지도](https://mirror.puzzlet.org/ddy/)
 - [동여도](https://kostma.aks.ac.kr/e-map/mapSearch_AN.aspx?lang=ko&mType=anciNm&sType=anSearch&sWord=DYD_15_04_0280)
@@ -43,7 +41,7 @@
 
 ### 참고사항
 
-- 1789_EMD 파일을 기준으로 경계를 추론한 것임
+- 일부 경계는 1789_EMD 파일을 기준으로 경계를 추론하였음
 - 그 장소는  다음과 같음
     1. 전라도 장성-진원 경계
     1. 평안도 의주-인산-정령 경계
@@ -56,8 +54,7 @@
 - PDF 파일을 SHP 파일로 변환한 것
 
 ### 출처
-- [정요근.(2014).\[한국사\] GIS 기법의 활용을 통한 조선후기 越境地의 복원.역사학보,224(),109-162.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06071914)
-
+- [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)
 ## 1789_SGG
 
 - **호구총수(1789)** 시기의 행정구역 (부, 군, 현 단위)
@@ -75,7 +72,7 @@
 
 - PDF 파일을 SHP 파일로 변환한 것
 ### 출처
-- [정요근.(2014).\[한국사\] GIS 기법의 활용을 통한 조선후기 越境地의 복원.역사학보,224(),109-162.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06071914)
+- [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)
 
 ## 1912_SGG
 
@@ -84,10 +81,8 @@
 
 ### 출처
 - [정요근.(2014).\[한국사\] GIS 기법의 활용을 통한 조선후기 越境地의 복원.역사학보,224(),109-162.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06071914)
-- [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005
-)
-- [조선시대 전자문화지도 시스템, 고려대 2007](http://www.atlaskorea.org/historymap.web
-)
+- [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)
+- [조선시대 전자문화지도 시스템, 고려대 2007](http://www.atlaskorea.org/historymap.web)
 - [한국민족문화대백과사전](http://encykorea.aks.ac.kr)
 - [한국어 위키백과 지역정보](https://ko.wikipedia.org)
 
