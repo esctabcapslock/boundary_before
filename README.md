@@ -10,6 +10,12 @@
     하여 만듦
 - 북한의 행정구역은 오픈스트리트맵을 활용
 
+## 각 값의 뜻
+- **l1**: 도명
+- **l2**: 이름
+- **level**: 행정구역의 등급
+- **level_org**: 값이 있다면, 1454년 기준 지역이며, 아니면 1432년 기준임
+- **POP**:  인구
 
 ## 1432_1454_SGG
 
@@ -18,18 +24,10 @@
 - 기타 지역은 1432년 기준
 - 속현은 반영하지 않으며, 일부 존재하는 데이터는 주현 기준임
 
-### 각 값의 뜻
-
-- **NAME**: 이름
-- **DO_NAME**: 도명
-- **CLS_KR**: 행정구역의 등급
-- **CLS_KR_ORG**: 값이 있다면, 1454년 기준 지역이며, 아니면 1432년 기준임
-- **POP**: 세종실록지리지 기준 인구
 
 ### 출처 (적혀진 순서대로 우선하여 반영 / 추론함)
 
 - [조선왕조실록 세종실록지리지](http://sillok.history.go.kr/id/kda_400)
-- [정요근.(2014).\[한국사\] GIS 기법의 활용을 통한 조선후기 越境地의 복원.역사학보,224(),109-162.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06071914)
 - [조선시대 수륙교통로 / 행정구역 역추적 / 성신여대 양보경(현 국토연구원) (~17)](http://waks.aks.ac.kr/rsh/?rshID=aks-2014-kfr-1230005)
 - [조선시대 전자문화지도 시스템, 고려대 2007](http://www.atlaskorea.org/historymap.web)
 - [경기도 600년 기념 1414~2014 : 육백년 경기도, 37p](https://memory.library.kr/items/show/28541)
@@ -38,6 +36,7 @@
 - [신증동국여지승람](https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?grpId=&itemId=BT&gubun=book&depth=2&cate1=G&cate2=&dataGubun=%EC%84%9C%EC%A7%80&dataId=ITKC_BT_B001A)
 - [한국민족문화대백과사전](http://encykorea.aks.ac.kr)
 - [한국어 위키백과 지역정보](https://ko.wikipedia.org)
+- [정요근.(2014).\[한국사\] GIS 기법의 활용을 통한 조선후기 越境地의 복원.역사학보,224(),109-162.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06071914)
 
 ### 참고사항
 
@@ -58,12 +57,6 @@
 ## 1789_SGG
 
 - **호구총수(1789)** 시기의 행정구역 (부, 군, 현 단위)
-
-### 각 값의 뜻
-
-- **NAME**: 이름
-- **DO_NAME**: 도명
-- **23_CLS_KR**: 행정구역의 등급
 
 ### 참고문헌
 - **1432_1454_SGG**과 같음
@@ -96,14 +89,6 @@
 ### 출처
 - [통계지리정보서비스 2008년 센서스용행정구역경계 ](https://sgis.kostat.go.kr/contents/shortcut/shortcut_05.jsp)
 - [오픈스트리트맵 휴전선](https://openstreetmap.org/)
-
-## 2008_SGG_north, 2021_11_SGG_north
-
-- 북한 기준 행정구역 경계
-- 오픈스트리트 맵의 경계를 활용
-- 해안선을 반영함
-
-### 출처
 - [오픈스트리트맵](https://openstreetmap.org/)
 - [경계 다운로드](polygons.openstreetmap.fr)
 - [해안선 다운로드](https://osmdata.openstreetmap.de/data/land-polygons.html)
