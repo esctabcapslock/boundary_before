@@ -1,4 +1,4 @@
-# 한반도 과거 / 북한 행정구역 경계 SHP 파일
+# 한반도 과거 / 북한 행정구역 경계 SHP 파일 (2021.11~2021.12 작성)
 
 - SHP 파일을 찾지 못해서, 한번 만들어봄
 - 대충
@@ -94,10 +94,9 @@
 - [해안선 다운로드](https://osmdata.openstreetmap.de/data/land-polygons.html)
 
 ## 사용 유의사항
+- (2022.03 보완) 일제강점기 이후 경기, 강원, 충청, 황해도의 공신력있는 행정구역 자료: [국사편찬위원회 역사정보지리DB 사업](http://db.history.go.kr/hgis/pro_g1/intro/intro01.do)
 - 파일이 사실관계와 많이 다를 수 있으며, 이에 따른 책임은 본인에게 있음
 - 본인이 임의로 업데이트 할 수 있음
 - **사실관계가 다른 경우**, 본 깃헙의 [이슈](https://github.com/esctabcapslock/boundary_before/issues)나 [pull requests](https://github.com/esctabcapslock/boundary_before/pulls)기능 등을 이용해 많은 사람들이 혜택을 볼 수 있으면 좋겠음
 - 위와 같은 이유로, 사용시 출처를 남기길 권장함
 
-## 
-- [국사편찬위원회 역사정보지리DB 사업][http://db.history.go.kr/hgis/pro_g1/intro/intro01.do) 
